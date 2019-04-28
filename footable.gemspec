@@ -6,11 +6,11 @@ require "footable/version"
 Gem::Specification.new do |spec|
   spec.name          = "footable"
   spec.version       = Footable::VERSION
-  spec.authors       = ["alizduwal"]
-  spec.email         = ["duwal_amar2006@yahoo.com"]
+  spec.authors       = ["amarduwal"]
+  spec.email         = ["duwal.amar2006@gmail.com"]
 
   spec.summary       = %q{FooTable - Awesome Responsive Tables.}
-  spec.description   = %q{FooTable - Awesome Responsive Tables. Where you can sort table through jquery}
+  spec.description   = %q{FooTable - Awesome Responsive Tables. Where you can sort table through jquery.}
   spec.homepage      = "http://railsnepal.herokuapp.com"
   spec.license       = "MIT"
 
