@@ -43,6 +43,9 @@ Import Footable styles in `app/assets/stylesheets/application.scss`:
 
 ## Usage
 
+Demo:
+[Footable With Sorting](http://railsnepal.herokuapp.com/demos/footable_with_sorting)
+
 Example Usage:
 HTML
 ```html
